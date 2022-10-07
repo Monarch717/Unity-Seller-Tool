@@ -66,3 +66,7 @@ EMAIL_PORT=
 
 - `GET /api/v1/unity` - To get the list of subscribers.
 
+## Frontend UI 
+
+![Seller Tool](subscriber_view.png)
+
